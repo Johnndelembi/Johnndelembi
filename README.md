@@ -3,14 +3,9 @@ Johnndelembi/Johnndelembi is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://komarev.com/ghpvc/?username=kalebu)
-
-
 <samp>
 <p>Hi there !</p>
 
-
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-gray?labelColor=32cd32&style=flat-square&logo=upwork&logoColor=white&link=https://www.upwork.com/o/profiles/users/~013e000d7680a4c985/)](https://www.upwork.com/o/profiles/users/~013e000d7680a4c985/)
 
 ### Who am I ?
 <p>
