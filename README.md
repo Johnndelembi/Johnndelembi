@@ -42,7 +42,7 @@ I'm primarily work for Contracts works and But also open to full time roles , Le
             <li>
                 <p>Web Frameworks</p>
                 <ul>
-                    <li> FastAPI | Django </li>
+                    <li> FastAPI | Django | REST </li>
                 </ul>
             <li>
                 <p>Data Science (ML/AI)</p>
