@@ -1,60 +1,40 @@
-<!---
-Johnndelembi/Johnndelembi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there, I'm Johnndelembi! 👋
 
-<samp>
-<p>Hi there !</p>
+Welcome to my GitHub profile! I'm passionate about software development and enjoy working on various projects. Here you'll find some of the work I've been involved in and my contributions to the open-source community.
 
+## 🚀 About Me
 
-### Who am I ?
-<p>
-I'm <b><a href="https://johnny-dev.onrender.com/#hero">John Ndelembi</a></b>, i'm a passionate software engineer, ever since i got into tech my life has never been the same, i spend most of my time during the day building tech products which aim to transform and simplify the way we see the world and interact with it. For example at some point in time under a certain company i participated in helping build an AI machine which provided education material contents to secondary school students aiming to help them excell in their exams
+- 🌱 I’m currently learning new technologies and improving my skills in full-stack development.
+- 👯 I’m looking to collaborate on exciting open-source projects.
+- 💬 Ask me about web development, Python, JavaScript, or anything tech-related.
+- 📫 How to reach me: [Email](mailto:williamjohnie61@gmail.com) | [X](https://x.com/Johnwills171)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love playing chess and hiking in my free time.
 
-### Graduate from Youtube tutorial university
+## 🛠️ Technologies & Tools
 
-Perhaps of having a background in Statistics and Mathematics paved a way for me into the tech world, I managed in someway to transform my study course into a career through thousands of hours spend on watching tutorials, reading documentantions and blogs and building projects, nowdays I mainly work as a Software Engineer
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### what I'm good at
+## 📈 GitHub Stats
 
-I have rich experience in developing (Web|Mobile) Backends, DataScience solutions, Neural Network Architectures and DevOps using Python at high quality following best practices. I worked with High-quality clients including Investmetrics Company and MTABE Innovations and developed a solutions that is being used by thousands of people.
+![Johnndelembi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnndelembi&show_icons=true&theme=radical)
 
+## 📚 Recent Projects
 
-### Hire me 
+- [**Project One**](https://github.com/Johnndelembi/MTABE_AI) - A frontend chat-interface for a chatbot.
+- [**Project Two**](https://github.com/Johnndelembi/shortstack-vals-special) - A brief description of Project Two.
+- [**Project Three**](https://github.com/Johnndelembi/NEW_MTABE_API) - An AI ML & model finetuning API.
 
-I'm primarily work for Contracts works and But also open to full time roles , Let's talk
+## 🤝 Let's Connect!
 
+- [LinkedIn](https://www.linkedin.com/in/johnndelembi)
+- [Twitter](https://x.com/Johnwills171)
+- [Email](mailto:williamjohnie61@gmail.com)
 
-</p>
-
-<h3>My Tech stack</h3>
-<ul>
-    <li>
-        <p><b>languages</b></p>
-        <ul>
-            <li>Python </li>
-            <li>Html | Css | Tailwind CSS | Bootstrap CSS </li>
-        </ul>
-    </li>
-    <li>
-        <p><b>Frameworks & Tools</b></p>
-        <ul>
-            <li>
-                <p>Web Frameworks</p>
-                <ul>
-                    <li> FastAPI | Django | REST </li>
-                </ul>
-            <li>
-                <p>Data Science (ML/AI)</p>
-                <ul>
-                    <li>Sklearn | PyTorch | Tensorflow | Huggingface | nexaai </li>
-                </ul>
-            </li>
-            <li>
-                <p> Databases & Storange</p>
-                <ul>
-                    <li> Sqlite | Mysql | AuraDB</li>
-                </ul>
-                </li>
-            <li>
-               
+Thanks for stopping by! Have a great day! 😄
