@@ -1,4 +1,4 @@
-# Hi there, I'm Johnndelembi! 👋
+# Hi there, I'm John! 👋
 
 Welcome to my GitHub profile! I'm passionate about software development and enjoy working on various projects. Here you'll find some of the work I've been involved in and my contributions to the open-source community.
 
