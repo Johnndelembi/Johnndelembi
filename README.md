@@ -28,9 +28,9 @@ Welcome to my GitHub profile! I'm a passionate software developer diving deep in
 
 ## 📚 Recent Projects
 
-- [**MTABE_AI**](https://github.com/Johnndelembi/MTABE_AI) - A sleek frontend chat interface for an AI-powered chatbot, built with React and styled for seamless user interaction.
+- [**FrontEnd-AI**](https://github.com/Johnndelembi/MTABE_AI) - A sleek frontend chat interface for an AI-powered chatbot, built with React and styled for seamless user interaction.
 - [**Deduplicator API**](https://github.com/Johnndelembi/deduplicator-api) - A FastAPI-based system for deduplicating data, leveraging PostgreSQL and OpenAI embeddings for semantic similarity checks.
-- [**NEW_MTABE_API**](https://github.com/Johnndelembi/NEW_MTABE_API) - An API for AI model fine-tuning and conversational retrieval, integrated with OpenAI’s Assistants API and AWS for scalable storage.
+- [**AI-Project-2**](https://github.com/Johnndelembi/NEW_MTABE_API) - An API for AI model fine-tuning and conversational retrieval, integrated with OpenAI’s Assistants API and AWS for scalable storage.
 
 ## 🤝 Let's Connect!
 
