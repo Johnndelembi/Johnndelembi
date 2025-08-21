@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate software developer diving deep in
 ## 🚀 About Me
 
 - 🌱 I’m currently mastering **FastAPI**, **OpenAI APIs**, and full-stack development, with a focus on building scalable, AI-driven solutions.
-- 👯 I’m eager to collaborate on open-source projects, especially those involving chatbots, web scraping, or deduplication systems.
+- 👯 I’m eager to collaborate on open-source projects, especially those involving AI, web scraping, or deduplication systems.
 - 💬 Ask me about **Python**, **JavaScript**, **API development**, or integrating AI into real-world applications.
 - 📫 Reach me at: [Email](mailto:williamjohnie61@gmail.com) | [X](https://x.com/Johnwills171)
 - 😄 Pronouns: He/Him
