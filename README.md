@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a passionate software developer diving deep in
 
 ## 🚀 About Me
 
-- 🌱 Experienced in **FastAPI**, **OpenAI APIs**, Huggingface AI systems development, with a focus on building scalable, AI-driven solutions.
-- 👯 I’m eager to collaborate on open-source projects, especially those involving AI, Automation, Agentic and web scraping, or deduplication systems.
-- 💬 Ask me about **Python**, **JavaScript**, **API development**, or integrating AI into real-world applications.
+- 🌱 Experienced in **FastAPI**, **OpenAI APIs**, **Huggingface**, AI systems development with a focus on building scalable, AI-driven solutions.
+- 👯 I’m eager to collaborate on open-source projects, especially those involving AI, Automation, Agentic and web automations, or deduplication systems.
+- 💬 Ask me about **System Desing & System Thinking**, **Python As a Language**, **Robust API development methods**, or integrating AI into real-world applications.
 - 📫 Reach me at: [Email](mailto:williamjohnie61@gmail.com) | [X](https://x.com/Johnwills171)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I’m not coding, you’ll find me strategizing over a chessboard or hiking new trails!
@@ -28,9 +28,9 @@ Welcome to my GitHub profile! I'm a passionate software developer diving deep in
 
 ## 📚 Recent Projects
 
-- [**FrontEnd-AI**](https://github.com/Johnndelembi/MTABE_AI) - A sleek frontend chat interface for an AI-powered chatbot, built with React and styled for seamless user interaction.
+- [**FrontEnd-AI**](https://abelian.streamlit.app/) - A sleek frontend chat interface for an AI-powered chatbot, built with React and styled for seamless user interaction.
 - [**Deduplicator API**](https://github.com/Johnndelembi/deduplicator-api) - A FastAPI-based system for deduplicating data, leveraging PostgreSQL and OpenAI embeddings for semantic similarity checks.
-- [**AI-Project-2**](https://github.com/Johnndelembi/NEW_MTABE_API) - An API for AI model fine-tuning and conversational retrieval, integrated with OpenAI’s Assistants API and AWS for scalable storage.
+- [**AI-Project-2**](https://abelian.streamlit.app/) - An API for AI model fine-tuning and conversational retrieval, integrated with OpenAI’s Assistants API and AWS for scalable storage.
 
 ## 🤝 Let's Connect!
 
