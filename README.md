@@ -1,11 +1,11 @@
-# Hey there, I'm John! 👋
+# Hey, I'm John! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer diving deep into innovative projects, from AI-powered chatbots to robust APIs. Here, you’ll find my contributions to open-source and personal projects that push the boundaries of tech.
+Welcome to my GitHub profile! I'm a software engineer diving deep into innovative projects, from AI-powered chatbots to robust APIs. Here, you’ll find my contributions to open-source and personal projects that push the boundaries of tech.
 
 ## 🚀 About Me
 
 - 🌱 Experienced in **FastAPI**, **OpenAI APIs**, **Huggingface**, AI systems development with a focus on building scalable, AI-driven solutions.
-- 👯 I’m eager to collaborate on open-source projects, especially those involving AI, Automation, Agentic and web automations, or deduplication systems.
+- 👯 I’m eager to collaborate on open-source projects, especially those involving AI, Automation, Agentic and web automations, systems in general.
 - 💬 Ask me about **System Desing & System Thinking**, **Python As a Language**, **Robust API development methods**, or integrating AI into real-world applications.
 - 📫 Reach me at: [Email](mailto:williamjohnie61@gmail.com) | [X](https://x.com/Johnwills171)
 - 😄 Pronouns: He/Him
