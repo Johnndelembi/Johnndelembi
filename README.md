@@ -1,41 +1,62 @@
-# Hey, I'm John! 👋
+# Hi, I'm John Ndelembi 👋
 
-Welcome to my GitHub profile! I'm a software engineer diving deep into innovative projects, from AI-powered chatbots to robust APIs. Here, you’ll find my contributions to open-source and personal projects that push the boundaries of tech.
+**Software engineer focused on backend systems, applied AI, and automation.**
 
-## 🚀 About Me
+I build APIs, services, and AI applications that solve practical problems. My work spans Python and TypeScript, from language model integrations and agent workflows to messaging platforms, payments, and multi-tenant backends.
 
-- 🌱 Experienced in **FastAPI**, **OpenAI APIs**, **Huggingface**, AI systems development with a focus on building scalable, AI-driven solutions.
-- 👯 I’m eager to collaborate on open-source projects, especially those involving AI, Automation, Agentic and web automations, systems in general.
-- 💬 Ask me about **System Desing & System Thinking**, **Python As a Language**, **Robust API development methods**, or integrating AI into real-world applications.
-- 📫 Reach me at: [Email](mailto:williamjohnie61@gmail.com) | [X](https://x.com/Johnwills171)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: When I’m not coding, you’ll find me strategizing over a chessboard or hiking new trails!
+I enjoy understanding how the whole system fits together: the data, the people using it, and what happens when something fails.
 
-## 🛠️ Technologies & Tools
+## What I work on
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+- **Backend & distributed systems:** APIs, microservices, event-driven communication, and clear boundaries between services.
+- **Applied AI:** assistants, retrieval, model integrations, and agents that connect language models to useful tools and workflows.
+- **Communications:** WhatsApp Cloud API, SMS, voice integrations, webhooks, and real-time updates.
+- **Payments & platform reliability:** payment flows, subscriptions, credits, entitlements, and dependable handling of provider responses.
+- **Multi-tenant products:** authentication, permissions, workspaces, and customer isolation.
+- **Automation:** developer tools, workflow automation, and integrations that reduce repetitive work.
 
-## 📈 GitHub Stats
+Much of my recent work has been around the Notify Africa platform, connecting these pieces into a working product.
 
-![Johnndelembi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnndelembi&show_icons=true&theme=radical)
+## How I approach engineering
 
-## 📚 Recent Projects
+Understand the problem before adding code. Reuse what already works.
+Keep business rules in one place. Test the failure paths.
 
-- [**FrontEnd-AI**](https://abelian.streamlit.app/) - A sleek frontend chat interface for an AI-powered chatbot, built with React and styled for seamless user interaction.
-- [**Deduplicator API**](https://github.com/Johnndelembi/deduplicator-api) - A FastAPI-based system for deduplicating data, leveraging PostgreSQL and OpenAI embeddings for semantic similarity checks.
-- [**AI-Project-2**](https://abelian.streamlit.app/) - An API for AI model fine-tuning and conversational retrieval, integrated with OpenAI’s Assistants API and AWS for scalable storage.
+I care about system design, correctness, and software that another
+engineer can understand and maintain.
 
-## 🤝 Let's Connect!
+## Technologies I work with
 
-- [LinkedIn](https://www.linkedin.com/in/johnndelembi)
-- [X](https://x.com/Johnwills171)
-- [Email](mailto:williamjohnie61@gmail.com)
+| Area | Technologies |
+|------|--------------|
+| Languages | Python, TypeScript, JavaScript |
+| Backend | FastAPI, NestJS, Node.js, TypeORM |
+| AI & agents | OpenAI APIs, Hugging Face, LangGraph |
+| Data & messaging | PostgreSQL, Redis, RabbitMQ |
+| Interfaces & real-time | React, Streamlit, WebSockets, Socket.IO |
+| Infrastructure | Docker, AWS, Kong, GitHub Actions |
 
-Thanks for checking out my profile! Let’s build something amazing together! 😄
+## Selected projects
+
+- **[Notify Africa for Raycast](https://github.com/Johnndelembi/notify-raycast)**  
+  Send personalized and bulk SMS directly from Raycast, including recipient imports from CSV and Excel files.
+
+- **[LangGraph × Mistral](https://github.com/Johnndelembi/LangGraph-x-Mistral)**  
+  Experiments with graph-based conversational workflows, model inference, fact-checking, and moderation.
+
+- **[Lunch Workflow Automation](https://github.com/Johnndelembi/data-collection-X-report-generation)**  
+  Python automation for meal selection, email communication, Google Sheets data collection, and report generation.
+
+## Let's connect
+
+I'm interested in collaborating on backend systems, practical AI tools,
+developer tooling, and open-source automation.
+
+Happy to talk about Python, API design, system thinking, distributed
+systems, or bringing AI into real products.
+
+[LinkedIn](https://www.linkedin.com/in/johnndelembi) ·
+[X](https://x.com/Johnwills171) ·
+[Email](mailto:williamjohnie61@gmail.com)
+
+Outside of code, you'll find me playing chess or exploring a hiking trail.
